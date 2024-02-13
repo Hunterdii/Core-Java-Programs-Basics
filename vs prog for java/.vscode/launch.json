@@ -1,0 +1,280 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Area",
+            "request": "launch",
+            "mainClass": "Area",
+            "projectName": "vs prog for java_a6fa0594"
+        },
+        {
+            "type": "java",
+            "name": "Cal1",
+            "request": "launch",
+            "mainClass": "Cal1",
+            "projectName": "vs prog for java_a6fa0594"
+        },
+        {
+            "type": "java",
+            "name": "Calc",
+            "request": "launch",
+            "mainClass": "Calc",
+            "projectName": "vs prog for java_a6fa0594"
+        },
+        {
+            "type": "java",
+            "name": "Calc1",
+            "request": "launch",
+            "mainClass": "Calc1",
+            "projectName": "vs prog for java_a6fa0594"
+        },
+        {
+            "type": "java",
+            "name": "CollectionExamples",
+            "request": "launch",
+            "mainClass": "CollectionExamples",
+            "projectName": "vs prog for java_a6fa0594"
+        },
+        {
+            "type": "java",
+            "name": "Exep",
+            "request": "launch",
+            "mainClass": "Exep",
+            "projectName": "vs prog for java_a6fa0594"
+        },
+        {
+            "type": "java",
+            "name": "Factorial",
+            "request": "launch",
+            "mainClass": "Factorial",
+            "projectName": "vs prog for java_a6fa0594"
+        },
+        {
+            "type": "java",
+            "name": "Framer",
+            "request": "launch",
+            "mainClass": "Framer",
+            "projectName": "vs prog for java_a6fa0594"
+        },
+        {
+            "type": "java",
+            "name": "FruitArray",
+            "request": "launch",
+            "mainClass": "FruitArray",
+            "projectName": "vs prog for java_a6fa0594"
+        },
+        {
+            "type": "java",
+            "name": "Game",
+            "request": "launch",
+            "mainClass": "Game",
+            "projectName": "vs prog for java_a6fa0594"
+        },
+        {
+            "type": "java",
+            "name": "Info",
+            "request": "launch",
+            "mainClass": "Info",
+            "projectName": "vs prog for java_a6fa0594"
+        },
+        {
+            "type": "java",
+            "name": "Interface",
+            "request": "launch",
+            "mainClass": "Interface",
+            "projectName": "vs prog for java_a6fa0594"
+        },
+        {
+            "type": "java",
+            "name": "KeyEventApp",
+            "request": "launch",
+            "mainClass": "KeyEventApp",
+            "projectName": "vs prog for java_a6fa0594"
+        },
+        {
+            "type": "java",
+            "name": "KeyboardEvents",
+            "request": "launch",
+            "mainClass": "KeyboardEvents",
+            "projectName": "vs prog for java_a6fa0594"
+        },
+        {
+            "type": "java",
+            "name": "MenuProgram",
+            "request": "launch",
+            "mainClass": "MenuProgram",
+            "projectName": "vs prog for java_a6fa0594"
+        },
+        {
+            "type": "java",
+            "name": "MouseClickEvents",
+            "request": "launch",
+            "mainClass": "MouseClickEvents",
+            "projectName": "vs prog for java_a6fa0594"
+        },
+        {
+            "type": "java",
+            "name": "Music",
+            "request": "launch",
+            "mainClass": "Music",
+            "projectName": "vs prog for java_a6fa0594"
+        },
+        {
+            "type": "java",
+            "name": "Operations",
+            "request": "launch",
+            "mainClass": "Operations",
+            "projectName": "vs prog for java_a6fa0594"
+        },
+        {
+            "type": "java",
+            "name": "Pra",
+            "request": "launch",
+            "mainClass": "Pra",
+            "projectName": "vs prog for java_a6fa0594"
+        },
+        {
+            "type": "java",
+            "name": "Prac",
+            "request": "launch",
+            "mainClass": "Prac",
+            "projectName": "vs prog for java_a6fa0594"
+        },
+        {
+            "type": "java",
+            "name": "RollerCoaster",
+            "request": "launch",
+            "mainClass": "RollerCoaster",
+            "projectName": "vs prog for java_a6fa0594"
+        },
+        {
+            "type": "java",
+            "name": "ShapeArea",
+            "request": "launch",
+            "mainClass": "ShapeArea",
+            "projectName": "vs prog for java_a6fa0594"
+        },
+        {
+            "type": "java",
+            "name": "SimpleGraphicsApp",
+            "request": "launch",
+            "mainClass": "SimpleGraphicsApp",
+            "projectName": "vs prog for java_a6fa0594"
+        },
+        {
+            "type": "java",
+            "name": "StudentSearch",
+            "request": "launch",
+            "mainClass": "StudentSearch",
+            "projectName": "vs prog for java_a6fa0594"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "Test",
+            "projectName": "vs prog for java_a6fa0594"
+        },
+        {
+            "type": "java",
+            "name": "VirtualKeyboardApp",
+            "request": "launch",
+            "mainClass": "VirtualKeyboardApp",
+            "projectName": "vs prog for java_a6fa0594"
+        },
+        {
+            "type": "java",
+            "name": "Wardrobe",
+            "request": "launch",
+            "mainClass": "Wardrobe",
+            "projectName": "vs prog for java_a6fa0594"
+        },
+        {
+            "type": "java",
+            "name": "WaterLevelChecker",
+            "request": "launch",
+            "mainClass": "WaterLevelChecker",
+            "projectName": "vs prog for java_a6fa0594"
+        },
+        {
+            "type": "java",
+            "name": "cars",
+            "request": "launch",
+            "mainClass": "cars",
+            "projectName": "vs prog for java_a6fa0594"
+        },
+        {
+            "type": "java",
+            "name": "heigh",
+            "request": "launch",
+            "mainClass": "heigh",
+            "projectName": "vs prog for java_a6fa0594"
+        },
+        {
+            "type": "java",
+            "name": "height",
+            "request": "launch",
+            "mainClass": "height",
+            "projectName": "vs prog for java_a6fa0594"
+        },
+        {
+            "type": "java",
+            "name": "main1",
+            "request": "launch",
+            "mainClass": "main1",
+            "projectName": "vs prog for java_a6fa0594"
+        },
+        {
+            "type": "java",
+            "name": "main3",
+            "request": "launch",
+            "mainClass": "main3",
+            "projectName": "vs prog for java_a6fa0594"
+        },
+        {
+            "type": "java",
+            "name": "name",
+            "request": "launch",
+            "mainClass": "name",
+            "projectName": "vs prog for java_a6fa0594"
+        },
+        {
+            "type": "java",
+            "name": "nameList",
+            "request": "launch",
+            "mainClass": "nameList",
+            "projectName": "vs prog for java_a6fa0594"
+        },
+        {
+            "type": "java",
+            "name": "usa1",
+            "request": "launch",
+            "mainClass": "usa1",
+            "projectName": "vs prog for java_a6fa0594"
+        },
+        {
+            "type": "java",
+            "name": "usa2",
+            "request": "launch",
+            "mainClass": "usa2",
+            "projectName": "vs prog for java_a6fa0594"
+        },
+        {
+            "type": "java",
+            "name": "usa3",
+            "request": "launch",
+            "mainClass": "usa3",
+            "projectName": "vs prog for java_a6fa0594"
+        }
+    ]
+}
