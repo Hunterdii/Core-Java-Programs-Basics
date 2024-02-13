@@ -1,0 +1,245 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CurrencyConverter",
+            "request": "launch",
+            "mainClass": "CurrencyConverter",
+            "projectName": "javaint_a1914af5"
+        },
+        {
+            "type": "java",
+            "name": "NumberGameGUI",
+            "request": "launch",
+            "mainClass": "NumberGameGUI",
+            "projectName": "javaint_a1914af5"
+        },
+        {
+            "type": "java",
+            "name": "Game",
+            "request": "launch",
+            "mainClass": "Game",
+            "projectName": "javaint_a1914af5"
+        },
+        {
+            "type": "java",
+            "name": "ATMGUI",
+            "request": "launch",
+            "mainClass": "ATMGUI",
+            "projectName": "javaint_a1914af5"
+        },
+        {
+            "type": "java",
+            "name": "base/NumberGameGUI",
+            "request": "launch",
+            "mainClass": "javafx.base/NumberGameGUI",
+            "projectName": "JavaProgs_f87e019f"
+        },
+        {
+            "type": "java",
+            "name": "base/StudentGradeCalculator",
+            "request": "launch",
+            "mainClass": "javafx.base/StudentGradeCalculator",
+            "projectName": "JavaProgs_f87e019f"
+        },
+        {
+            "type": "java",
+            "name": "base/Awt",
+            "request": "launch",
+            "mainClass": "javafx.base/Awt",
+            "projectName": "JavaProgs_f87e019f"
+        },
+        {
+            "type": "java",
+            "name": "base/CurrencyConverter",
+            "request": "launch",
+            "mainClass": "javafx.base/CurrencyConverter",
+            "projectName": "JavaProgs_f87e019f"
+        },
+        {
+            "type": "java",
+            "name": "base/hello",
+            "request": "launch",
+            "mainClass": "javafx.base/hello",
+            "projectName": "JavaProgs_f87e019f"
+        },
+        {
+            "type": "java",
+            "name": "base/ATMGUI",
+            "request": "launch",
+            "mainClass": "javafx.base/ATMGUI",
+            "projectName": "JavaProgs_f87e019f"
+        },
+        {
+            "type": "java",
+            "name": "base/ToDoListApp",
+            "request": "launch",
+            "mainClass": "javafx.base/ToDoListApp",
+            "projectName": "JavaProgs_f87e019f"
+        },
+        {
+            "type": "java",
+            "name": "CurrencyConverterSwing",
+            "request": "launch",
+            "mainClass": "CurrencyConverterSwing",
+            "projectName": "JavaProgs_f87e019f"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "ATMGUI",
+            "request": "launch",
+            "mainClass": "ATMGUI",
+            "projectName": "JavaProgs_f87e019f"
+        },
+        {
+            "type": "java",
+            "name": "ATM_",
+            "request": "launch",
+            "mainClass": "ATM_",
+            "projectName": "JavaProgs_f87e019f"
+        },
+        {
+            "type": "java",
+            "name": "ATM_Transaction",
+            "request": "launch",
+            "mainClass": "ATM_Transaction",
+            "projectName": "JavaProgs_f87e019f"
+        },
+        {
+            "type": "java",
+            "name": "Awt",
+            "request": "launch",
+            "mainClass": "Awt",
+            "projectName": "JavaProgs_f87e019f"
+        },
+        {
+            "type": "java",
+            "name": "AwtExample",
+            "request": "launch",
+            "mainClass": "AwtExample",
+            "projectName": "JavaProgs_f87e019f"
+        },
+        {
+            "type": "java",
+            "name": "AwtExample1",
+            "request": "launch",
+            "mainClass": "AwtExample1",
+            "projectName": "JavaProgs_f87e019f"
+        },
+        {
+            "type": "java",
+            "name": "CurrencyConverter",
+            "request": "launch",
+            "mainClass": "CurrencyConverter",
+            "projectName": "JavaProgs_f87e019f"
+        },
+        {
+            "type": "java",
+            "name": "Division",
+            "request": "launch",
+            "mainClass": "Division",
+            "projectName": "JavaProgs_f87e019f"
+        },
+        {
+            "type": "java",
+            "name": "Else_if",
+            "request": "launch",
+            "mainClass": "Else_if",
+            "projectName": "JavaProgs_f87e019f"
+        },
+        {
+            "type": "java",
+            "name": "Game",
+            "request": "launch",
+            "mainClass": "Game",
+            "projectName": "JavaProgs_f87e019f"
+        },
+        {
+            "type": "java",
+            "name": "GradeCalculator",
+            "request": "launch",
+            "mainClass": "GradeCalculator",
+            "projectName": "JavaProgs_f87e019f"
+        },
+        {
+            "type": "java",
+            "name": "If_cond",
+            "request": "launch",
+            "mainClass": "If_cond",
+            "projectName": "JavaProgs_f87e019f"
+        },
+        {
+            "type": "java",
+            "name": "InputForm",
+            "request": "launch",
+            "mainClass": "InputForm",
+            "projectName": "JavaProgs_f87e019f"
+        },
+        {
+            "type": "java",
+            "name": "NumberGameGUI",
+            "request": "launch",
+            "mainClass": "NumberGameGUI",
+            "projectName": "JavaProgs_f87e019f"
+        },
+        {
+            "type": "java",
+            "name": "Practical19",
+            "request": "launch",
+            "mainClass": "Practical19",
+            "projectName": "JavaProgs_f87e019f"
+        },
+        {
+            "type": "java",
+            "name": "SimpleConstructorOverloading",
+            "request": "launch",
+            "mainClass": "SimpleConstructorOverloading",
+            "projectName": "JavaProgs_f87e019f"
+        },
+        {
+            "type": "java",
+            "name": "SimpleMethodOverloading",
+            "request": "launch",
+            "mainClass": "SimpleMethodOverloading",
+            "projectName": "JavaProgs_f87e019f"
+        },
+        {
+            "type": "java",
+            "name": "StarPattern",
+            "request": "launch",
+            "mainClass": "StarPattern",
+            "projectName": "JavaProgs_f87e019f"
+        },
+        {
+            "type": "java",
+            "name": "Student",
+            "request": "launch",
+            "mainClass": "Student",
+            "projectName": "JavaProgs_f87e019f"
+        },
+        {
+            "type": "java",
+            "name": "StudentGradeCalculator",
+            "request": "launch",
+            "mainClass": "StudentGradeCalculator",
+            "projectName": "JavaProgs_f87e019f"
+        },
+        {
+            "type": "java",
+            "name": "ToDoListApp",
+            "request": "launch",
+            "mainClass": "ToDoListApp",
+            "projectName": "JavaProgs_f87e019f"
+        }
+    ]
+}
